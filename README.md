@@ -6,8 +6,9 @@
 
 ```
 /
- └── figs /: Dossier stockant les figures.
- └── index_YAEM.html /: Le cours.
+ └── figs /: Dossier stockant les figures dans le cours.
+ └── index_YAEM.html /: Contenue du cours.
+ └── README.md /: Descriptif du cours.
 ```
 2. Ouvrez le fichier "index_YAEM.html" avec votre naviguateur web.
 
