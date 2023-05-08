@@ -1,9 +1,15 @@
 # Cours de Programmation Orienté Objet 
 
-## I - Installation
+## I - Utilisation
  
-Il suffit de télécharger le fichier "index_YAEM.html" et le dossier "figs". 
-Tout mettre dans un seul dossier. Puis ouvrir "index.html" avec un naviguateur.
+1. Télécharger le repertoire :
+
+```
+/
+ └── figs /: Dossier stockant les figures.
+ └── index_YAEM.html /: Le cours.
+```
+2. Ouvrez le fichier "index_YAEM.html" avec votre naviguateur web.
 
 ## II - Contenue du cours
 
@@ -18,12 +24,4 @@ Tout mettre dans un seul dossier. Puis ouvrir "index.html" avec un naviguateur.
 9. La bibliothèques streams et la programmation fonctionnelle en Java
 10. Conclusion
 
-```
-/
-├─┬─resources/: To store all generated results.
-│ ├──curves/: To store all curves.
-│ ├──latex/: To store all latex content.
-│ └──single/: To store all single results.
-
-```
 
