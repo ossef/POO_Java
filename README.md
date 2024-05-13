@@ -12,7 +12,7 @@
 ```
 2. Ouvrez le fichier "index_YAEM.html" avec votre naviguateur web.
 
-## II - Contenue du cours
+## II - Contenu du cours
 
 1. Introduction
 2. Vue d’ensemble des concepts objet
